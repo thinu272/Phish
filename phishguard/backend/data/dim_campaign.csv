@@ -1,0 +1,36 @@
+campaign_id,campaign_name,primary_attack_type,start_date,end_date,duration_days,primary_target_department,origin_countries,sender_domain_count,threat_actor_alias,total_emails
+CMP-001,Phantom Dropper Run,Malware Attachment,2026-04-12,2026-04-16,5,Human Resources,"Nigeria, India",2,Unattributed,170
+CMP-002,Cobalt Dropper Run,Malware Attachment,2026-11-05,2026-11-13,9,Human Resources,Vietnam,2,Unattributed,280
+CMP-003,Amber Wire Request,Business Email Compromise,2026-09-19,2026-10-01,13,Finance,"United States, Indonesia",2,TA-5560,281
+CMP-004,Ember Targeted Lure,Spear Phishing,2026-08-26,2026-09-06,12,Broad / None,Germany,2,Unattributed,198
+CMP-005,Cobalt Share Lure,File-Sharing Lure,2026-05-27,2026-06-08,13,Finance,"Nigeria, United States",2,TA-4108,333
+CMP-006,Amber Invoice Wave,Invoice / Payment Fraud,2026-08-11,2026-08-14,4,"Finance, Procurement","United States, Ukraine",3,TA-2201,180
+CMP-007,Midnight Credential Harvest,Credential Harvesting,2026-03-24,2026-03-28,5,Broad / None,Romania,3,TA-5560,194
+CMP-008,Ember Credential Harvest,Credential Harvesting,2026-03-17,2026-03-25,9,Broad / None,"United States, Russia",2,Unattributed,226
+CMP-009,Hollow Dropper Run,Malware Attachment,2026-04-19,2026-04-27,9,Human Resources,"Romania, Unknown (Anonymized)",3,TA-2201,213
+CMP-010,Shadow Wire Request,Business Email Compromise,2026-08-02,2026-08-10,9,Finance,Vietnam,3,TA-3317,292
+CMP-011,Iron Callback Scam,Callback / Support Scam,2026-09-27,2026-09-30,4,"Customer Support, Sales","United Kingdom, Russia",1,TA-6092,250
+CMP-012,Iron Boardroom Ruse,Whaling (Executive Impersonation),2026-04-19,2026-04-29,11,Executive Office,Unknown (Anonymized),4,TA-3317,109
+CMP-013,Crimson Credential Harvest,Credential Harvesting,2026-09-01,2026-09-05,5,Broad / None,"Vietnam, Indonesia",1,TA-4108,188
+CMP-014,Shadow Wire Request,Business Email Compromise,2026-10-05,2026-10-09,5,Finance,"Russia, United States",4,TA-4108,161
+CMP-015,Shadow Targeted Lure,Spear Phishing,2026-08-24,2026-08-28,5,Broad / None,"Vietnam, Nigeria",2,Unattributed,192
+CMP-016,Rapid Share Lure,File-Sharing Lure,2026-07-16,2026-07-23,8,Operations,"Brazil, Indonesia",3,TA-2201,198
+CMP-017,Phantom Credential Harvest,Credential Harvesting,2026-09-25,2026-10-06,12,Broad / None,"Romania, United States",4,Unattributed,186
+CMP-018,Rapid Wire Request,Business Email Compromise,2026-06-19,2026-06-26,8,Finance,"United Kingdom, United States",2,TA-2201,190
+CMP-019,Amber Targeted Lure,Spear Phishing,2026-04-16,2026-04-28,13,Broad / None,"Vietnam, United States",2,Unattributed,129
+CMP-020,Hollow Credential Harvest,Credential Harvesting,2026-09-05,2026-09-14,10,Marketing,Netherlands,1,TA-3317,255
+CMP-021,Amber Credential Harvest,Credential Harvesting,2026-07-31,2026-08-03,4,Broad / None,"Brazil, Germany",3,TA-2201,269
+CMP-022,Cobalt Invoice Wave,Invoice / Payment Fraud,2026-09-04,2026-09-06,3,"Finance, Procurement",China,2,TA-6092,267
+CMP-023,Amber Dropper Run,Malware Attachment,2026-04-19,2026-04-27,9,Human Resources,"United States, Nigeria",1,Unattributed,163
+CMP-024,Shadow Credential Harvest,Credential Harvesting,2026-10-18,2026-10-20,3,Executive Office,Russia,4,Unattributed,213
+CMP-025,Golden Parcel Phish,Delivery / Package Scam,2026-09-06,2026-09-09,4,Broad / None,"Russia, Nigeria",1,TA-5560,288
+CMP-026,Ember Wire Request,Business Email Compromise,2026-08-04,2026-08-09,6,Finance,"Russia, Vietnam",2,TA-4108,186
+CMP-027,Golden Targeted Lure,Spear Phishing,2026-11-15,2026-11-18,4,Broad / None,United Kingdom,1,Unattributed,163
+CMP-028,Velvet Credential Harvest,Credential Harvesting,2026-09-29,2026-10-11,13,Executive Office,"Indonesia, India",1,TA-2201,177
+CMP-029,Iron Credential Harvest,Credential Harvesting,2026-09-08,2026-09-10,3,Broad / None,"Russia, Turkey",3,TA-6092,287
+CMP-030,Crimson Parcel Phish,Delivery / Package Scam,2026-07-13,2026-07-15,3,Broad / None,Russia,3,Unattributed,225
+CMP-031,Amber Dropper Run,Malware Attachment,2026-04-11,2026-04-17,7,Human Resources,"Brazil, United States",3,TA-4108,123
+CMP-032,Velvet Targeted Lure,Spear Phishing,2026-10-26,2026-11-01,7,Procurement,United States,2,TA-4108,215
+CMP-033,Ember Credential Harvest,Credential Harvesting,2026-04-19,2026-04-29,11,Broad / None,Indonesia,1,TA-2201,220
+CMP-034,Shadow Callback Scam,Callback / Support Scam,2026-04-20,2026-04-29,10,"Customer Support, Sales","Russia, Germany",2,TA-3317,239
+CMP-000,Opportunistic (Unattributed),Mixed,2026-01-01,2026-11-18,322,Broad / None,Various,145,Unattributed,4740
