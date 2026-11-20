@@ -1,0 +1,12 @@
+department_id,department_name,headcount
+D01,IT & Security,70
+D02,Finance,55
+D03,Human Resources,30
+D04,Sales,100
+D05,Marketing,45
+D06,Operations,110
+D07,Legal & Compliance,18
+D08,Customer Support,85
+D09,Executive Office,14
+D10,Procurement,28
+D11,Research & Development,65
