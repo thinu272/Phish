@@ -40,7 +40,6 @@ function Shell() {
         <div className="top">
           <div className="titlerow">
             <h1>{meta.label === 'User & Department' ? 'User & Department Analysis' : meta.label}</h1>
-            <span className="sub">{'// ' + meta.sub}</span>
             {summary && <div className="threat" style={{ color: lc, borderColor: lc + '88', background: lc + '18' }}>● THREAT LEVEL: {summary.threat_level}</div>}
           </div>
           <FilterBar summary={summary} />
